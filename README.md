@@ -1,0 +1,2 @@
+# QScanner
+Barcode Scanner
